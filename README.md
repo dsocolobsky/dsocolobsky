@@ -3,7 +3,6 @@
 My name is **Dylan Socolobsky** and this is my Github.
 * 🌞 I reside in Argentina 
 * 🏛 I'm currently studying Computer Science at [University of Buenos Aires](https://www.dc.uba.ar/)
-* 🐍 Currently employed as a fullstack developer
 * 📩 You may contact me at [dsocolobsky@gmail.com](mailto:dsocolobsky@gmail.com)
 
 ### My main interests
